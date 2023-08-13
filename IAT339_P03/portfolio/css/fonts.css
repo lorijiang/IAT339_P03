@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Caprasimo&family=DM+Serif+Display&family=Inter:wght@400;700&family=Nunito+Sans:wght@300;400;600&display=swap" rel="stylesheet"');
+
+@font-face { /* Citation: lab */
+	font-family: 'Bebas Neue', sans-serif;
+	src: url(fonts/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+	font-family: 'Inter', sans-serif;
+	src: url(fonts/Inter-Regular.ttf);
+}
